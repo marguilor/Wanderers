@@ -1,0 +1,33 @@
+body{font-family: bebas neue;
+	background: rgb(235, 231, 235);
+	text-align : justify ;
+	background: linear-gradient(135deg,red,grey),
+	url ('background.jpg');}
+
+p{font-weight : bold;
+font-size: 90px;
+text-align: center;}
+a{border: 10px;
+border-color: black;
+font-size: 70px;}
+
+h1{
+	color: #d5e7eb; 
+	font-size:60px;
+	font-family: minimal mono;
+	font-weight: lighter;
+	text-align : center;
+}
+
+img{
+	width: 1000px; 
+	height: 2000px;
+	}
+a{
+	text-decoration: none;
+}
+a:hover {
+	background : black;
+	color : white;
+	font-weight: bolder;
+}
